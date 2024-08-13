@@ -14,6 +14,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: -30%;
 }
 
 .half-width {
@@ -32,4 +33,19 @@ section {
     color: aliceblue;
     font-weight: 700;
     border-radius: 10px;
+}
+
+.about .half-width .about-img img {}
+
+.about .about-img img {}
+
+.about {
+    .about-img {
+
+        img {
+            width: 90%;
+
+
+        }
+    }
 }
