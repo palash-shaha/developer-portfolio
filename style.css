@@ -86,3 +86,9 @@ h1 {
 
 
 }
+
+footer p {
+    text-align: center;
+    text-shadow: 2px 0px 0px red;
+    color: orange;
+}
